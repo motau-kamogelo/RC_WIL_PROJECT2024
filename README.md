@@ -1,6 +1,8 @@
 # RC WIL PROJECT 2024
 Design and Implementation of hospital network
 
+View project files [here](https://github.com/motau-kamogelo/RC_WIL_PROJECT2024/tree/main/XITM6329_DIgital_Dynamos)
+
 ## Problems / Challenges
 1. qwer
 2. fdfs
