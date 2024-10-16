@@ -21,3 +21,5 @@ Design and Implementation of hospital network
 - sdfgdagad
 - dsagag
 - sdgag
+
+![](https://github.com/motau-kamogelo/RC_WIL_PROJECT2024/blob/main/XITM6329_DIgital_Dynamos/Presentation%20Tips.png)
